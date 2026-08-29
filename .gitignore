@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+
+# Data outputs (keep structure, ignore generated files)
+data/uploads/*
+data/processed/*
+data/output/*
+data/demo/*.png
+data/demo/*.jpg
+!data/*/.gitkeep
+
+# Reports
+*.pdf
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/

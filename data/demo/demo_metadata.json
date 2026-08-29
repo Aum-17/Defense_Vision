@@ -1,0 +1,25 @@
+{
+  "label": "PUBLIC / SYNTHETIC DEMONSTRATION DATA",
+  "changes": [
+    {
+      "id": "CHG-001",
+      "type": "new_structure",
+      "description": "New building-like structure"
+    },
+    {
+      "id": "CHG-002",
+      "type": "removed_structure",
+      "description": "Structure removed"
+    },
+    {
+      "id": "CHG-003",
+      "type": "road",
+      "description": "New road segment"
+    },
+    {
+      "id": "CHG-004",
+      "type": "surface_change",
+      "description": "Surface / possible-damage patch"
+    }
+  ]
+}
